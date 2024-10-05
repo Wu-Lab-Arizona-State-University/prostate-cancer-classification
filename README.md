@@ -18,8 +18,6 @@ Prostate cancer is the second most common new cancer diagnosis in the United Sta
 
 - Disease: lymph node metastasis of the prostate
 
-- Stages: Ta, Tis, T0, T1, T2, T3, T4
-
 - Region-of-interest (ROI) annotation technique: Performed manually by radiologists
 
 For more details, interested readers are directed to the **Dataset** section of the [paper](url-pending).
