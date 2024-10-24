@@ -24,7 +24,7 @@ For more details, interested readers are directed to the **Dataset** section of 
 
 ## Availability
 
-Data will be made available under reasonable request to the corresponding author, <a href="suryadipto.sarkar@fau.de">Suryadipto Sarkar</a> (more contact details below).
+Data will be made available under reasonable request to the corresponding author, <a href="mailto:suryadipto.sarkar@fau.de">Suryadipto Sarkar</a> (more contact details below).
 
 
 <!------------------>
