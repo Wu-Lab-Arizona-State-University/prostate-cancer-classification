@@ -33,15 +33,24 @@ Data will be made available under reasonable request to the corresponding author
 
 ## MLA
 
-Will be made available upon publication.
+Sarkar, Suryadipto, et al. "A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients." Biomedicines 12.10 (2024): 2345.
 
 ## APA
 
-Will be made available upon publication.
+Sarkar, S., Wu, T., Harwood, M., & Silva, A. C. (2024). A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients. Biomedicines, 12(10), 2345.
 
 ## BibTex
 
-Will be made available upon publication.
+@article{sarkar2024transfer,
+  title={A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients},
+  author={Sarkar, Suryadipto and Wu, Teresa and Harwood, Matthew and Silva, Alvin C},
+  journal={Biomedicines},
+  volume={12},
+  number={10},
+  pages={2345},
+  year={2024},
+  publisher={MDPI}
+}
 
 <!------------------>
 
