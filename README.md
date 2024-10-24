@@ -1,6 +1,6 @@
 # About
 
-This is a repository that contains information about the *prostate cancer* case study reported in [A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients](url-pending).
+This is a repository that contains information about the *prostate cancer* case study reported in [A Transfer Learning-Based Framework for Classifying Lymph Node Metastasis in Prostate Cancer Patients](https://www.mdpi.com/2227-9059/12/10/2345).
 
 <!------------------>
 
@@ -14,13 +14,13 @@ Prostate cancer is the second most common new cancer diagnosis in the United Sta
 
 ## Description
 
-- As described in our [paper](url-pending), the data used for our analyses comprised a total of 126 lymph node images (41 metastatic, 85 normal), acquired from 15 patients with prostate cancer.
+- As described in our [paper](https://www.mdpi.com/2227-9059/12/10/2345), the data used for our analyses comprised a total of 126 lymph node images (41 metastatic, 85 normal), acquired from 15 patients with prostate cancer.
 
 - Disease: lymph node metastasis of the prostate
 
 - Region-of-interest (ROI) annotation technique: Performed manually by radiologists
 
-For more details, interested readers are directed to the **Dataset** section of the [paper](url-pending).
+For more details, interested readers are directed to the **Dataset** section of the [paper](https://www.mdpi.com/2227-9059/12/10/2345).
 
 ## Availability
 
